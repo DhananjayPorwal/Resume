@@ -43,11 +43,11 @@ Hands on experience of working on several projects based on object oriented prog
 
 ## Education
 
-| Course | Institute | Aggregate | Remarks |
-| --- | --- | --- | --- |
-| Bachelor of Engineering in Electronics & Instrumentation Engineering | | Shri Vaishnav Institute of Technology and Science, Indore, Madhya Pradesh | | 75.9% | | completed with honours degree |
-| Higher Secondary School Certificate | | Crown public school, Ujjain, Madhya Pradesh | | 74.8% | first division |
-| High School Certificate | | Saraswati Vidhya Mandir, Ujjain, Madhya Pradesh | | 80.8% | first division |
+| Course | Year | Institute | Aggregate | Remarks |
+| ----- | ----- | ----- |----- | ----- |
+| Bachelor of Engineering | 2010-2014 | Shri Vaishnav Institute of Technology and Science, Indore, Madhya Pradesh | 75.9% | completed with honours degree |
+| Higher Secondary School Certificate | 2009 | Crown public school, Ujjain, Madhya Pradesh | 74.8% | first division |
+| High School Certificate | 2007 | Saraswati Vidhya Mandir, Ujjain, Madhya Pradesh | 80.8% | first division |
 
 ## Languages
 English: Full working proficiency<br />
