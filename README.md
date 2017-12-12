@@ -34,7 +34,8 @@ Hands on experience of working on several projects based on object oriented prog
 ## Skills
 
 * UNIX/LINUX RHEL Server Administration <br />
-* ETL tools’ Administration (AB INITIO & TALEND), Websphere Administration <br />
+* ETL tools’ Administration (AB INITIO & TALEND)
+* Websphere Administration <br />
 * Troubleshooting issues in production and pre-production environments <br />
 * IT Service Management (Incident and Change Management) <br />
 * On-the-ball communication skills<br />
