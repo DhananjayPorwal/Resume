@@ -43,7 +43,10 @@ Hands on experience of working on several projects based on object oriented prog
 
 ## Education
 
-| Course | Bachelor of Engineering in Electronics & Instrumentation Engineering |
+| Course | Institute | Aggregate | Remarks |
+| --- | --- | --- | --- |
+| Bachelor of Engineering in Electronics & Instrumentation Engineering |
+| ---
 | Institute | Shri Vaishnav Institute of Technology and Science, Indore, Madhya Pradesh |
 | Aggregate | 75.9%, completed with honours degree |
 
