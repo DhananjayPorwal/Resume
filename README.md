@@ -1,10 +1,10 @@
 ## Aditya Mehta
 
-I am a Global production assurance engineer working as administrator of Ab Initio, WebSphere, LINUX/RHEL infrastructure. Looking for the challenging projects in data warehousing and Big data technologies.
+I am an data ETL (Extraction, Transformation, Load) specialist & infrastructure administrator for ETL tools Ab Initio, Talend, IBM WebSphere, RHEL with 3.3 years' IT industry experience in Business intelligence field in Financial and banking domain. Looking for the challenging projects in data warehousing, ETL and Big data technologies.
 
 ## Experience
 
-Total work experience in Information Technology industry: 3.2 years
+Experience in Information Technology industry: 3.3 years
 
 **Organization: Infosys Limited** <br />
 **Duration: Oct 2016 to present** <br />
