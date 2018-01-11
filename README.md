@@ -1,6 +1,6 @@
 ## Aditya Mehta
 
-I am an data ETL (Extraction, Transformation, Load) specialist & infrastructure administrator for ETL tools Ab Initio, Talend, IBM WebSphere, RHEL with 3.3 years' IT industry experience in Business intelligence field in Financial and banking domain. Looking for the challenging projects in data warehousing, ETL and Big data technologies.
+I am a data ETL (Extraction, Transformation, Load) specialist & administrator for ETL tools Ab Initio, Talend on RHEL (Red Hat Enterprise Linux) infrastructure with 3.3 years' IT industry experience in Business intelligence field in financial and banking domain. Looking for the challenging projects in data warehousing, ETL and Big Data technologies.
 
 ## Experience
 
