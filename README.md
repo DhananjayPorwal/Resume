@@ -8,14 +8,14 @@ I am a data ETL (Extraction, Transformation, Load) specialist & administrator fo
 To become part of an organization where I will be able to explore and utilize my knowledge and enhance it further so as to become a responsible professional of the 21st century. I always believe in the process to learn, unlearn and relearn.
 
 ## Career Summary
-• Strong techno-functional experience in Business Intelligence and Data Warehousing field in Financial Services - Insurance & Banking Domain.
-• On-the-ball problem-solving, troubleshooting, debugging, and communication skills.
-• Technical expertise on various servers of AIX, RHEL, Linux, Websphere and Ab Initio product suites such as Co>Operating System, Enterprise Meta Environment, Graphical Development Environment, Control Center, Authorization Gateway.
-• As a global production assurance team, responsibilities include maintaining and supporting Abinitio Infrastructure for more than 50+ ETL applications on 300+ Linux RHEL servers, including major application such as Know Your Customer (KYC) among others.
-• Experience of working on big data infrastructure, basic Hadoop ecosystem and architecture.
-• Extensive Experience in interaction with client, various stakeholders and functional people from the businesses for the smooth functioning of entire IT infrastructure.
-• IT Service Management with Incident, Change and Problem management responsibilities.
-• To liaise with multiple parties including third party suppliers to identify the root cause of major incidents and to document them so as to prevent recurrence of known issues.
+• Strong techno-functional experience in Business Intelligence and Data Warehousing field in Financial Services - Insurance & Banking Domain.<br />
+• On-the-ball problem-solving, troubleshooting, debugging, and communication skills.<br />
+• Technical expertise on various servers of AIX, RHEL, Linux, Websphere and Ab Initio product suites such as Co>Operating System, Enterprise Meta Environment, Graphical Development Environment, Control Center, Authorization Gateway.<br />
+• As a global production assurance team, responsibilities include maintaining and supporting Abinitio Infrastructure for more than 50+ ETL applications on 300+ Linux RHEL servers, including major application such as Know Your Customer (KYC) among others.<br />
+• Experience of working on big data infrastructure, basic Hadoop ecosystem and architecture.<br />
+• Extensive Experience in interaction with client, various stakeholders and functional people from the businesses for the smooth functioning of entire IT infrastructure.<br />
+• IT Service Management with Incident, Change and Problem management responsibilities.<br />
+• To liaise with multiple parties including third party suppliers to identify the root cause of major incidents and to document them so as to prevent recurrence of known issues.<br />
 
 ## Experience
 
