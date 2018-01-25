@@ -1,15 +1,15 @@
 						     
 ## Aditya Mehta						
 
-I am a data ETL (Extraction, Transformation, Load) specialist & administrator for ETL tools Ab Initio, Talend on RHEL (Red Hat Enterprise Linux) infrastructure with 3.4 years' IT industry experience in Business intelligence field in financial and banking domain. I would like to contribute for challenging projects in data warehousing, ETL, Big Data and cloud technologies.
+I am a data ETL (Extraction, Transformation, Load) specialist & administrator for ETL tools Ab Initio, Talend on RHEL (Red Hat Enterprise Linux) infrastructure with 3.4 years' IT industry experience. I would like to contribute for challenging projects in data warehousing, ETL, Big Data and cloud technologies.
 
 ## Career Objective
 
-To become part of an organization where I will be able to explore and utilize my knowledge and enhance it further so as to become a responsible professional of the 21st century. I always believe in the process to learn, unlearn and relearn.
+To become part of an organization where I would get opportunities to utilize my knowledge and enhance it further so as to become a responsible professional of the 21st century. I always believe in the process to learn, unlearn and relearn.
 
 ## Career Summary
-• Strong techno-functional experience in Business Intelligence - Data Warehousing field in Financial Services - Insurance & Banking Domain.<br />
-• IT Service Management with Incident, Change and Problem management responsibilities.<br />
+• Strong techno-functional experience of 3.4 years in Business Intelligence - Data Warehousing field in Financial Services - Insurance & Banking Domain.<br />
+• Handling IT Service Management with Incident, Change and Problem management responsibilities.<br />
 • On-the-ball problem-solving, troubleshooting, debugging, and communication skills.<br />
 • Technical expertise on servers of UNIX (AIX), Linux (RHEL), Websphere and Ab Initio product suites as Co>Operating System, Enterprise Meta Environment, Graphical Development Environment, Control Center, Authorization Gateway.<br />
 • As a global production assurance team, responsibilities include maintaining and supporting Ab Initio Infrastructure for more than 50+ ETL applications on 300+ Linux RHEL servers, including major application such as Know Your Customer (KYC) among others.<br />
