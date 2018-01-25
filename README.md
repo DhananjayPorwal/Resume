@@ -1,7 +1,7 @@
 						     
 ## Aditya Mehta						
 
-I am a data ETL (Extraction, Transformation, Load) specialist & administrator for ETL tools Ab Initio, Talend on RHEL (Red Hat Enterprise Linux) infrastructure with 3.4 years' IT industry experience in Business intelligence field in financial and banking domain. Looking for the challenging projects in data warehousing, ETL, Big Data and cloud technologies.
+I am a data ETL (Extraction, Transformation, Load) specialist & administrator for ETL tools Ab Initio, Talend on RHEL (Red Hat Enterprise Linux) infrastructure with 3.4 years' IT industry experience in Business intelligence field in financial and banking domain. I would like to contribute in the challenging projects in data warehousing, ETL, Big Data and cloud technologies.
 
 ## Career Objective
 
@@ -14,12 +14,12 @@ Experience in Information Technology industry: 3.4 years
 **Duration:** Oct 2016 to present<br />
 **Designation:** Senior Systems Engineer<br />
 **Organization:** Infosys Limited<br />
-**Title:** Global Production Assurance for applications using ETL tool Ab Initio, Talend.
-**Client:** Citibank Inc, US
-**Technology:** Data Extraction, Transformation, Loading (ETL), Data Warehousing
-**Tools:** AbInitio, GDE, Control Center, AppDynamics, Tectia, IBM HTTP Server (IHS), ServiceNOW, Authorization Gateway, WebSphere, CloudEra Manager
-**Regions of IT infrastructure:** North and Latin America (NAM/LATAM), Europe Middle East & Africa (EMEA), Asia Pacific (APAC), Indonesia (IDN)
-**Project Description:** Under Chief Technology Office (CTO), GPA team provides the data ETL solutions for applications of Global Functions Technology Services.
+**Title:** Global Production Assurance for applications using ETL tool Ab Initio, Talend.<br />
+**Client:** Citibank Inc, US<br />
+**Technology:** Data Extraction, Transformation, Loading (ETL), Data Warehousing<br />
+**Tools:** AbInitio, GDE, Control Center, AppDynamics, Tectia, IBM HTTP Server (IHS), ServiceNOW, Authorization Gateway, WebSphere, CloudEra Manager<br />
+**Regions of IT infrastructure:** North and Latin America (NAM/LATAM), Europe Middle East & Africa (EMEA), Asia Pacific (APAC), Indonesia (IDN)<br />
+**Project Description:** Under Chief Technology Office (CTO), GPA team provides the data ETL solutions for applications of Global Functions Technology Services.<br />
 **Responsibilities:**
 - To provide a flexible, cost-effective technology framework with real time 24X7 support being SPOC (Single Point of Contact).
 - Capacity planning, clusters’ design, configuration for ETL tool Ab Initio or Talend as per data volume & complexity.
@@ -33,10 +33,10 @@ Experience in Information Technology industry: 3.4 years
 **Duration:** Jan 2015 to Sep 2016<br />
 **Designation:** Systems Engineer<br />
 **Organization:** Infosys Limited<br />
-**Title:** Environment setup, maintenance & administration for applications on shared or dedicated servers across multiple regions in all phases of SDLC (Systems Development Life Cycle).
-**Client:** Citibank Inc, US
-**Technology:** Data Extraction, Transformation and Loading (ETL), Data Warehousing
-**Tools:** AbInitio, GDE, Control Center, Hermes, AppDynamics, Putty, Tectia Client, IBM HTTP Server (IHS), ServiceNOW, Control Center, Authorization Gateway and WebSphere.
+**Title:** Environment setup, maintenance & administration for applications on shared or dedicated servers across multiple regions in all phases of SDLC (Systems Development Life Cycle).<br />
+**Client:** Citibank Inc, US<br />
+**Technology:** Data Extraction, Transformation and Loading (ETL), Data Warehousing<br />
+**Tools:** AbInitio, GDE, Control Center, Hermes, AppDynamics, Putty, Tectia Client, IBM HTTP Server (IHS), ServiceNOW, Control Center, Authorization Gateway and WebSphere.<br />
 **Responsibilities:**
 - To provide real time 24X7 support and Global Production Assurance for applications on hundreds of servers spanned across different regions using ETL tool Ab Initio, Talend on AIX/LINUX.
 - SPOC (Single Point of Contact) for Global Functions Technology Services applications using ETL Tool Ab Initio or Talend.
@@ -50,7 +50,7 @@ Experience in Information Technology industry: 3.4 years
 **Duration:** Sept 2014 to Dec 2014<br />
 **Designation:** Systems Engineer Trainee<br />
 **Organization:** Infosys Limited<br />
-**Title:** Foundation Program Training by Infosys limited, which involved learning the theoretical and practical aspects of various subjects of the Computer Science field.
+**Title:** Foundation Program Training by Infosys limited, which involved learning the theoretical and practical aspects of various subjects of the Computer Science field.<br />
 
 Final Average : 71.00( B )
 
