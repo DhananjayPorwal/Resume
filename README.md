@@ -11,10 +11,10 @@ To become part of an organization where I will be able to explore and utilize my
 
 Experience in Information Technology industry: 3.4 years
 
-**Duration:** Oct 2016 to present** <br />
-**Designation:** Senior Systems Engineer** <br />
-**Organization:** Infosys Limited** <br />
-**Title:** Global Production Assurance for applications using ETL tool Ab Initio, Talend.**
+**Duration:** Oct 2016 to present<br />
+**Designation:** Senior Systems Engineer<br />
+**Organization:** Infosys Limited<br />
+**Title:** Global Production Assurance for applications using ETL tool Ab Initio, Talend.
 **Client:** Citibank Inc, US
 **Technology:** Data Extraction, Transformation, Loading (ETL), Data Warehousing
 **Tools:** AbInitio, GDE, Control Center, AppDynamics, Tectia, IBM HTTP Server (IHS), ServiceNOW, Authorization Gateway, WebSphere, CloudEra Manager
@@ -30,10 +30,9 @@ Experience in Information Technology industry: 3.4 years
 - Implementation of automation tools such as RLM (Release Lifecycle Management) for code migration activities to the next phase of SDLC (Systems Development Life Cycle).
 - To configure job scheduling tool as Control Center with Single Sign On pages for users using Authorization Gateway, LDAP (Lightweight Directory Access Protocol) for user management, IBM HTTP Server for load balancing.
 
-**Duration:** Jan 2015 to Sep 2016** <br />
-**Designation:** Systems Engineer** <br />
-**Organization:** Infosys Limited** <br />
-**Responsibilities:**
+**Duration:** Jan 2015 to Sep 2016<br />
+**Designation:** Systems Engineer<br />
+**Organization:** Infosys Limited<br />
 **Title:** Environment setup, maintenance & administration for applications on shared or dedicated servers across multiple regions in all phases of SDLC (Systems Development Life Cycle).
 **Client:** Citibank Inc, US
 **Technology:** Data Extraction, Transformation and Loading (ETL), Data Warehousing
@@ -48,9 +47,9 @@ Experience in Information Technology industry: 3.4 years
 - IT service management following best practices of Information Technology Infrastructure Library using ServiceNOW tool.
 - To perform debugging and troubleshooting of failures or performance issues in all environments and to provide resolution within agreed SLA (Service-level Agreement).
 
-**Duration: Sept 2014 to Dec 2014** <br />
-**Designation: Systems Engineer Trainee** <br />
-**Organization: Infosys Limited** <br />
+**Duration:** Sept 2014 to Dec 2014<br />
+**Designation:** Systems Engineer Trainee<br />
+**Organization:** Infosys Limited<br />
 **Title:** Foundation Program Training by Infosys limited, which involved learning the theoretical and practical aspects of various subjects of the Computer Science field.
 
 Final Average : 71.00( B )
