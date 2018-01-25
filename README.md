@@ -8,13 +8,13 @@ I am a data ETL (Extraction, Transformation, Load) specialist & administrator fo
 To become part of an organization where I will be able to explore and utilize my knowledge and enhance it further so as to become a responsible professional of the 21st century. I always believe in the process to learn, unlearn and relearn.
 
 ## Career Summary
-• Strong techno-functional experience in Business Intelligence and Data Warehousing field in Financial Services - Insurance & Banking Domain.<br />
+• Strong techno-functional experience in Business Intelligence - Data Warehousing field in Financial Services - Insurance & Banking Domain.<br />
+• IT Service Management with Incident, Change and Problem management responsibilities.<br />
 • On-the-ball problem-solving, troubleshooting, debugging, and communication skills.<br />
-• Technical expertise on various servers of AIX, RHEL, Linux, Websphere and Ab Initio product suites such as Co>Operating System, Enterprise Meta Environment, Graphical Development Environment, Control Center, Authorization Gateway.<br />
-• As a global production assurance team, responsibilities include maintaining and supporting Abinitio Infrastructure for more than 50+ ETL applications on 300+ Linux RHEL servers, including major application such as Know Your Customer (KYC) among others.<br />
+• Technical expertise on servers of UNIX (AIX), Linux (RHEL), Websphere and Ab Initio product suites as Co>Operating System, Enterprise Meta Environment, Graphical Development Environment, Control Center, Authorization Gateway.<br />
+• As a global production assurance team, responsibilities include maintaining and supporting Ab Initio Infrastructure for more than 50+ ETL applications on 300+ Linux RHEL servers, including major application such as Know Your Customer (KYC) among others.<br />
 • Experience of working on big data infrastructure, basic Hadoop ecosystem and architecture.<br />
 • Extensive Experience in interaction with client, various stakeholders and functional people from the businesses for the smooth functioning of entire IT infrastructure.<br />
-• IT Service Management with Incident, Change and Problem management responsibilities.<br />
 • To liaise with multiple parties including third party suppliers to identify the root cause of major incidents and to document them so as to prevent recurrence of known issues.<br />
 
 ## Experience
@@ -65,18 +65,18 @@ Experience in Information Technology industry: 3.4 years
 Final Average : 71.00( B )
 
 Hands on experience of working on several projects based on application and implementation of areas such as
-• Object oriented programming using JAVA
-• Implementing database using MS SQL server
-• Software engineering
-• Integration of programming and software engineering
-• Operating systems
-• User interface and web technologies
-• Computational Problem Solving
-• Programming using CSharp (C#)
-• Enterprise Applications Development and Maintenance
-• Developing web applications using ASP.NET and ADO.NET
-• Presentation Skills Hands On
-• Business Communication
+• Object oriented programming using JAVA<br />
+• Implementing database using MS SQL server<br />
+• Software engineering<br />
+• Integration of programming and software engineering<br />
+• Operating systems<br />
+• User interface and web technologies<br />
+• Computational Problem Solving<br />
+• Programming using CSharp (C#)<br />
+• Enterprise Applications Development and Maintenance<br />
+• Developing web applications using ASP.NET and ADO.NET<br />
+• Presentation Skills Hands On<br />
+• Business Communication<br />
 
 
 ## Skills
@@ -109,12 +109,12 @@ Hindi: Full working proficiency
 ## Projects
 #### As undergraduate student
 ##### Minor project 
-Project Name: Password-based security system<br />
-Project Objective: To configure a security system to provide access on password based authentication implemented using microcontroller and LED display.
+**Project Name:** Password-based security system<br />
+**Project Objective:** To configure a security system to provide access on password based authentication implemented using microcontroller and LED display.
 
 ##### Major project 
-Project Name: Automated solar tracking system<br />
-Project Objective: To optimize power output of solar devices by implementing automated techniques for solar energy tracking.
+**Project Name:** Automated solar tracking system<br />
+**Project Objective:** To optimize power output of solar devices by implementing automated techniques for solar energy tracking.
 
 #### As IT professional
 * Development of a web portal for designing online booking system of a public resort using ASP.NET, ADO.NET technologies.
@@ -123,15 +123,15 @@ Project Objective: To optimize power output of solar devices by implementing aut
 * Big data and Hadoop administrator
 
 ## Honors & Awards:
-• STAR Performer, provided by Infosys Limited and Citibank Inc for outstanding performance and contribution to Citi Global Production Assurance Middleware Program in Feb 2017.
-• SPOT Award, provided by Infosys Limited for commendable performance and valuable contribution in Cloud and Infrastructure Services in 2016.
-• Special Teacher award, provided by ARPAN (a Corporate Social Responsibility initiative by Infosys Limited) for extensive volunteering contribution in Jun 2015.
-• Honor's (distinction) in Bachelor of Engineering, provided by Rajiv Gandhi Proudyogiki Vishwavidyalaya in June 2014.
+• STAR Performer, provided by Infosys Limited and Citibank Inc for outstanding performance and contribution to Citi Global Production Assurance Middleware Program in Feb 2017.<br />
+• SPOT Award, provided by Infosys Limited for commendable performance and valuable contribution in Cloud and Infrastructure Services in 2016.<br />
+• Special Teacher award, provided by ARPAN (a Corporate Social Responsibility initiative by Infosys Limited) for extensive volunteering contribution in Jun 2015.<br />
+• Honor's (distinction) in Bachelor of Engineering, provided by Rajiv Gandhi Proudyogiki Vishwavidyalaya in June 2014.<br />
 
 ## Certifications:
-• Brainbench Certified Unix Administration issued by Infosys Limited
-• AB Initio Foundation issued by Infosys Limited
-• HTML5 issued by Microsoft Virtual Academy
+• Brainbench Certified Unix Administration issued by Infosys Limited<br />
+• AB Initio Foundation issued by Infosys Limited<br />
+• HTML5 issued by Microsoft Virtual Academy<br />
 
 ## Volunteer Experience:
 As part of ARPAN – a CSR (Corporate Social Responsibility) initiative by Infosys Limited, Chandigarh, I voluntarily worked to educate the less privileged students of the society, making them aware about their rights in education and healthcare areas.
