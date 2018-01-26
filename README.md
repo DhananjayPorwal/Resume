@@ -24,7 +24,7 @@ Experience in Information Technology industry: 3.4 years
 **Duration:** Oct 2016 to present<br />
 **Designation:** Senior Systems Engineer<br />
 **Organization:** Infosys Limited<br />
-**Title:** Global Production Assurance for applicatioxzns using ETL tool Ab Initio, Talend.<br />
+**Title:** Global Production Assurance for applications using ETL tool Ab Initio, Talend.<br />
 **Client:** Citibank Inc, US<br />
 **Technology:** Data Extraction, Transformation, Loading (ETL), Data Warehousing<br />
 **Tools:** AbInitio, GDE, Control Center, AppDynamics, Tectia, IBM HTTP Server (IHS), ServiceNOW, Authorization Gateway, WebSphere, CloudEra Manager<br />
