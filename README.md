@@ -5,10 +5,10 @@ I am a data ETL (Extraction, Transformation, Load) specialist & administrator fo
 
 ## Career Objective
 
-To become part of an organization where I would get opportunities to strengthen my knowledge and skills so as to become a responsible professional of the 21st century. I always believe in the process to learn, unlearn and relearn.
+To join an organization where I would get opportunities which can enable me to be a responsible professional of the 21st century's digital community by strengthening my knowledge and skills. I always believe in the process to learn, unlearn and relearn.
 
 ## Career Summary
-• Strong techno-functional 3.4 years' experience in Business Intelligence-Data Warehousing field in Financial Services-Insurance & Banking Domain.<br />
+• Strong techno-functional 3.4 years' IT industry experience in Business Intelligence-Data Warehousing field in Financial Services-Insurance & Banking Domain.<br />
 • Handling IT Service Management with Incident, Change and Problem management responsibilities.<br />
 • On-the-ball problem-solving, troubleshooting, debugging, and communication skills.<br />
 • Technical expertise on servers of UNIX (AIX), Linux (RHEL), Websphere and Ab Initio product suites as Co>Operating System, Enterprise Meta Environment, Graphical Development Environment, Control Center, Authorization Gateway.<br />
@@ -24,16 +24,16 @@ Experience in Information Technology industry: 3.4 years
 **Duration:** Oct 2016 to present<br />
 **Designation:** Senior Systems Engineer<br />
 **Organization:** Infosys Limited<br />
-**Title:** Global Production Assurance for applications using ETL tool Ab Initio, Talend.<br />
+**Title:** Global Production Assurance for applicatioxzns using ETL tool Ab Initio, Talend.<br />
 **Client:** Citibank Inc, US<br />
 **Technology:** Data Extraction, Transformation, Loading (ETL), Data Warehousing<br />
 **Tools:** AbInitio, GDE, Control Center, AppDynamics, Tectia, IBM HTTP Server (IHS), ServiceNOW, Authorization Gateway, WebSphere, CloudEra Manager<br />
 **Regions of IT infrastructure:** North and Latin America (NAM/LATAM), Europe Middle East & Africa (EMEA), Asia Pacific (APAC), Indonesia (IDN)<br />
 **Project Description:** Under Chief Technology Office (CTO), GPA team provides the data ETL solutions for applications of Global Functions Technology Services.<br />
 **Responsibilities:**
-- To offer a flexible technology framework with real-time support of IT infrastructure for ETL tools according to various data volume & complexity requirements with planning, design, and maintenance of the clusters.
+- To offer a flexible technology framework with real-time support of IT infrastructure for ETL tools according to various data volume & complexity requirements with architecture design and maintenance of the clusters.
 - To migrate applications from physical to cloud servers and databases to Oracle As A Service (ORAAS) for business cost savings without any impact to performance.
-- Execute hardware & software upgrades for enhanced security, better performance, and business continuity plans.
+- Execute hardware and software upgrades for enhanced security, better performance, and business continuity plans.
 - To ensure smooth functioning of live environment by proactively predicting possible performance issues due to heavy load on the servers and to manage server monitoring so as to send alerts for any threshold breaches on the server, which can cause failure of the running jobs.
 - Implementation of automation tools such as RLM (Release Lifecycle Management) for code migration activities to the next phase of SDLC (Systems Development Life Cycle).
 - To set-up Single Sign On pages for users using advanced techniques of user authorization, user management, and load balancing.
@@ -46,11 +46,11 @@ Experience in Information Technology industry: 3.4 years
 **Technology:** Data Extraction, Transformation and Loading (ETL), Data Warehousing<br />
 **Tools:** AbInitio, GDE, Control Center, Hermes, AppDynamics, Putty, Tectia Client, IBM HTTP Server (IHS), ServiceNOW, Control Center, Authorization Gateway and WebSphere.<br />
 **Responsibilities:**
-- Global Production Assurance for applications using ETL tool Ab Initio, Talend on AIX/LINUX infrastructure on hundreds of servers spanned across different regions .
+- Global Production Assurance for applications using ETL tool Ab Initio, Talend on AIX/LINUX infrastructure on hundreds of servers spanned across different regions.
 - SPOC (Single Point of Contact) for Global Functions Technology Services applications.
 - To migrate applications from AIX (Advanced Interactive eXecutive) to RHEL (Red Hat Enterprise Linux) infrastructure for cost effectiveness with no impact on performance.
 - To build, upgrade and perform periodical maintenance of entire infrastructure ensuring Continuity Of Business ubiquitously.
-- To handle code release across phases of SDLC (Systems Development Life Cycle).
+- To handle code release activities across phases of SDLC (Systems Development Life Cycle).
 - IT service management following best practices of Information Technology Infrastructure Library using ServiceNOW tool.
 - To analyze performance issues in all environments and resolving them as per SLA (Service-level Agreement) metrics.
 
@@ -80,18 +80,18 @@ Final Average : 71.00(B)
 * UNIX/LINUX RHEL Server Administration <br />
 * ETL tools’ Administration (AB INITIO & TALEND)<br />
 * Websphere Administration <br />
-* Troubleshooting issues in production and pre-production environments <br />
-* IT Service Management (Incident and Change Management) <br />
+* Troubleshooting issues in production and pre-production environments<br />
+* IT Service Management (Incident, Change and Problem Management)<br />
 * On-the-ball communication skills<br />
-* Design Thinking <br />
+* Design Thinking<br />
 
 ## Education
 
 | Course | Year | Institute | Aggregate | Remarks |
 | ----- | ----- | ----- |----- | ----- |
-| Bachelor of Engineering | 2010-2014 | Shri Vaishnav Institute of Technology and Science, Indore, Madhya Pradesh | 75.9% | honours degree |
-| Higher Secondary School Certificate | 2009 | Crown public school, Ujjain, Madhya Pradesh | 74.8% | first division |
-| High School Certificate | 2007 | Saraswati Vidhya Mandir, Ujjain, Madhya Pradesh | 80.8% | first division |
+| Bachelor of Engineering | 2010-2014 | Shri Vaishnav Institute of Technology and Science, Indore, Madhya Pradesh | 75.9% | Honours degree |
+| Higher Secondary School Certificate | 2009 | Crown public school, Ujjain, Madhya Pradesh | 74.8% | First division |
+| High School Certificate | 2007 | Saraswati Vidhya Mandir, Ujjain, Madhya Pradesh | 80.8% | First division |
 
 **International English Language Testing System (IELTS):** Overall band: 7.5 CEFR level: C1
 
@@ -103,16 +103,16 @@ English: Full working proficiency<br />
 Hindi: Full working proficiency
 
 ## Projects
-#### As undergraduate student
-##### Minor project 
+### As undergraduate student
+#### Minor project 
 **Project Name:** Password-based security system<br />
 **Project Objective:** To implement a security system providing access by password-based authentication using a microcontroller and LED display.
 
-##### Major project 
+#### Major project 
 **Project Name:** Automated solar tracking system<br />
 **Project Objective:** To optimize output of solar devices by implementing automated techniques for solar energy tracking.
 
-#### As IT professional
+### As IT professional
 * Development of a web portal for designing online booking system of a public resort using ASP.NET, ADO.NET technologies.
 * Global production assurance for middleware technologies as administrator of Ab Initio, Talend, WebSphere, Control Center, RLM tools.
 * Big data and Hadoop administrator
@@ -120,9 +120,9 @@ Hindi: Full working proficiency
 ## Honors & Awards:
 | Title | Year | Organization | Rationale |
 | ----- | ----- | ----- |----- |
-| STAR Performer | Feb 2017 | Infosys Limited and Citibank Inc | excellent performance in Citi Global Production Assurance Middleware Program |
-| SPOT Award | 2016 | Infosys Limited | enterprising contribution in Cloud and Infrastructure Services |
-| Special Teacher | Jun 2015 | ARPAN (a Corporate Social Responsibility initiative by Infosys Limited) | discerning volunteering contribution |
+| STAR Performer | Feb 2017 | Infosys Limited and Citibank Inc | Excellent performance in Citi Global Production Assurance Middleware Program |
+| SPOT Award | 2016 | Infosys Limited | Enterprising contribution in Cloud and Infrastructure Services |
+| Special Teacher | Jun 2015 | ARPAN (a Corporate Social Responsibility initiative by Infosys Limited) | Discerning volunteering contribution |
 | Honor's degree |June 2014 | Rajiv Gandhi Proudyogiki Vishwavidyalaya | Achievement of excellent academic records. |
 
 ## Certifications:
@@ -131,4 +131,4 @@ Hindi: Full working proficiency
 • HTML5 <br />
 
 ## Volunteer Experience:
-As part of ARPAN – a CSR (Corporate Social Responsibility) initiative by Infosys Limited, Chandigarh, I voluntarily worked to educate the less privileged students of the society, enabling them to make use of their rights.
+As part of ARPAN – a CSR (Corporate Social Responsibility) initiative by Infosys Limited, Chandigarh, I voluntarily worked to enable the less privileged students of the society, by providing them education.
