@@ -1,5 +1,5 @@
 						     
-## Aditya Mehta						
+# Aditya Mehta						
 
 I am a data ETL (Extraction, Transformation, Load) specialist & administrator for ETL tools Ab Initio, Talend on RHEL (Red Hat Enterprise Linux) infrastructure with 3.4 years' IT industry experience. I would like to contribute for challenging projects in data warehousing, ETL, Big Data and cloud technologies.
 
